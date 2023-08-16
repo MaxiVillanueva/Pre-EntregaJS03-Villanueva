@@ -1,0 +1,44 @@
+{
+    "productos": [
+      {
+        "nombre": "airpods",
+        "precio": 115900,
+        "stock": 25
+      },
+      {
+        "nombre": "cargador iphone 14",
+        "precio": 29999,
+        "stock": 15
+      },
+      {
+        "nombre": "apple watch",
+        "precio": 250000,
+        "stock": 5
+      },
+      {
+        "nombre": "ipad",
+        "precio": 400000,
+        "stock": 3
+      },
+      {
+        "nombre": "iphone 14",
+        "precio": 955000,
+        "stock": 2
+      },
+      {
+        "nombre": "macbook",
+        "precio": 1300000,
+        "stock": 1
+      },
+      {
+        "nombre": "samsung 65 neoqled",
+        "precio": 1500000,
+        "stock": 1
+      },
+      {
+        "nombre": "samsung 85 neoqled",
+        "precio": 3000000,
+        "stock": 1
+      }
+    ]
+  }
